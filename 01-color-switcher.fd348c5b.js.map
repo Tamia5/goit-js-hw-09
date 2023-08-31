@@ -1,0 +1,1 @@
+{"mappings":"AAEAA,QAAQC,IADS","sources":["src/js/01-color-switcher.js"],"sourcesContent":["const name = \"Miriam\";\nconst greeting = `Hello, my name is ${name}!`;\nconsole.log(greeting);\n// \"Hello, my name is Miriam!\"\n"],"names":["console","log"],"version":3,"file":"01-color-switcher.fd348c5b.js.map"}
